@@ -10,8 +10,8 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.devyk.top:8080/my-github-repos)
-* [世界，你好！](https://www.devyk.top:8080/hello-solo)
+* [我在 GitHub 上的开源项目](http://www.devyk.top:8080/my-github-repos)
+* [世界，你好！](http://www.devyk.top:8080/hello-solo)
 
 
 
