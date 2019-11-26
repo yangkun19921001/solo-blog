@@ -1,15 +1,16 @@
-<p align="center"><img alt="阳坤 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
-阳坤 的个人博客
+<p align="center"><img alt="DevYK 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+DevYK 的个人博客
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="阳坤 的个人博客" target="_blank" href="https://github.com/yangkun19921001/solo-blog"><img src="https://img.shields.io/github/last-commit/yangkun19921001/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="DevYK 的个人博客" target="_blank" href="https://github.com/yangkun19921001/solo-blog"><img src="https://img.shields.io/github/last-commit/yangkun19921001/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/yangkun19921001/solo-blog"><img src="https://img.shields.io/github/repo-size/yangkun19921001/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/yangkun19921001/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [性能优化(一)APP 启动优化（不敢说秒开，但是最终优化完真不到 1s）](https://www.devyk.top/articles/2019/11/25/1574667364641.html)
 * [我在 GitHub 上的开源项目](https://www.devyk.top/my-github-repos)
 
 
