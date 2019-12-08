@@ -10,6 +10,7 @@ DevYK 的个人博客
 
 ### 最新
 
+* [高级 UI 成长之路 (七) SVG 基础使用 + 绘制中国地图](https://www.devyk.top/articles/2019/12/07/1575710038016.html)
 * [高级 UI 成长之路 (六) PathMeasure 制作路径动画](https://www.devyk.top/articles/2019/12/04/1575455046756.html)
 * [高级 UI 成长之路 (五) 看完该篇文章 Canvas 你应该会了](https://www.devyk.top/articles/2019/12/02/1575294095986.html)
 * [高级 UI 成长之路 (四) Paint 高级使用](https://www.devyk.top/articles/2019/12/01/1575185428589.html)
